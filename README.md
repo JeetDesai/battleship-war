@@ -15,7 +15,10 @@ Any ruby version will be enough for this application.
 
 ## Usage
 
+On your terminal execute below command
+```
 ruby /path/to/battleship_game.rb
+```
 
 ## Input output files
 
