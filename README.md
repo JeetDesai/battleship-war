@@ -19,6 +19,10 @@ On your terminal execute below command
 ```
 ruby /path/to/battleship_game.rb
 ```
+Results
+
+![Screenshot-from-2024-06-24-15-19-55](https://github.com/JeetDesai/battleship-war/assets/1021248/f1eb787d-e555-4594-854e-e296e268c931)
+
 
 ## Input output files
 
