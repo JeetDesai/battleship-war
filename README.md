@@ -3,11 +3,11 @@
 ## Description
 
 This application will accept input.txt as input file which will have all necessary parameters to process the data. This application contains 5 classes as shown below. All of them will be available under lib folder
-BattleshipGame: The main class that will manage the game.
-Player: To represent each player.
-Grid: To represent the player's grid.
-Ship: To represent the ships.
-Missile: To handle missile attacks and results.
+1. BattleshipGame: The main class that will manage the game.
+2. Player: To represent each player.
+3. Grid: To represent the player's grid.
+4. Ship: To represent the ships.
+5. Missile: To handle missile attacks and results.
 
 ## Installation
 
